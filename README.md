@@ -36,3 +36,10 @@ Sélectionnez la base de données cible (ou créez-en une nouvelle).
 Allez à l'onglet Import.
 Cliquez sur Choisir un fichier et sélectionnez le fichier SQL.
 Cliquez sur Exécuter pour importer les données.
+
+
+Support
+Si vous avez besoin de support ou si vous souhaitez contribuer au projet, n'hésitez pas à me contacter via PayPal :
+
+Support PayPal
+https://www.paypal.com/paypalme/nmicheahmed
