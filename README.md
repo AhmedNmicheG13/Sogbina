@@ -2,6 +2,18 @@
 
 Bienvenue dans le projet Covoiturage ! Ce projet est une plateforme de covoiturage développée en utilisant le framework Laravel, inspirée par des services tels que Blablacar.
 
+Aperçu du site
+https://webfx.fr/sogbina/
+
+Informations admin:
+Nom d'utilisateur : admin@webfx.fr 
+Mot de passe : 12345
+
+Informations de l'utilisateur :
+Nom d'utilisateur : customer@webfx.fr
+Mot de passe : 12345
+
+
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les logiciels suivants sur votre machine :
